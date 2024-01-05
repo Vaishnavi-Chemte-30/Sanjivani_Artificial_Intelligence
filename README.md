@@ -1,1 +1,1 @@
-#Sanjivani_Artifficial_Intteligence
+# Sanjivani_Artificial_Intelligence
